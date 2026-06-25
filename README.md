@@ -287,6 +287,10 @@ docker-compose up --build
 
 ---
 
+# Summary
+CraftFlow — Multi-Tenant SaaS Platform
+CraftFlow is a production-grade multi-tenant SaaS platform built for home-based businesses including craft sellers, bakers, and candle makers, where each business operates in a fully isolated workspace. Core features include a 7-stage order workflow state machine, drag-and-drop Kanban board, smart production scheduling engine that auto-prioritizes orders by deadline, inventory management with low-stock alerts, and a customer CRM with lifetime value tracking. Role-based access control enforces Owner, Staff, and Customer permissions across every endpoint, replacing scattered tools like WhatsApp and spreadsheets with one unified business platform.
+Tech Stack: Java 21, Spring Boot, PostgreSQL, React 18, Redux Toolkit, Docker
 
 ---
 
